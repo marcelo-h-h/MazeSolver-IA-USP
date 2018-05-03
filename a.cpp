@@ -2,6 +2,7 @@
 #include <priority_queue>
 #include <stdlib.h>
 #include <stdio.h>
+#include <stack>
 
 using namespace std;
 
